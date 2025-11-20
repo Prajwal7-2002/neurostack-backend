@@ -1,0 +1,5 @@
+[
+  {"id": "1", "question": "How do I reset my password?", "answer": "Go to Settings > Security > Reset Password and follow the steps."},
+  {"id": "2", "question": "How to generate an API key?", "answer": "Open Developer Settings > API Keys > Create new key and copy it."},
+  {"id": "3", "question": "What is the rate limit?", "answer": "The API allows 1000 requests per day per account."}
+]
